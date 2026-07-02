@@ -1,6 +1,8 @@
-# 👋 Hi, I'm Song Nene
+# 👋 Hi, I'm Song Eun Hee
 
-**Data Scientist** | 통계학과 재학 중 | DS 부트캠프 수료
+**Data Scientist** | 통계학과 재학 중 | DS 부트캠프 수료    
+E-mail : songne619gmail.com    
+blog : https://blog.naver.com/sognsy619    
 
 데이터를 통해 의미 있는 인사이트를 발견하고,
 AI 모델을 활용해 실제 문제를 해결하는 과정에 관심이 있습니다.
